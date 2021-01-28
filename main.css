@@ -1,0 +1,50 @@
+body
+{
+    text-align: center;
+    background-color: aquamarine;
+    color: white;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: white;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
+.icon-bar{
+    width: 30px;
+    height: 10px;
+    color: black;
+}
+.navbar-toggle{
+    background-color: white;
+}
+.links{
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: transparent;
+}
+.floatthing{
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: blue;
+}
+.social:hover{
+    color: black;
+    
+}
